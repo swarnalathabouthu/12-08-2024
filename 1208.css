@@ -1,0 +1,19 @@
+.A{
+    width: 80%;
+    height:50%;
+}
+.B{
+    text-align: center;
+}
+#a{
+    background-color: darkturquoise;
+}
+#b{
+    background-color: burlywood;
+}
+#c{
+    background-color: blueviolet;
+}
+#d{
+    background-color: hotpink;
+}
